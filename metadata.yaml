@@ -1,0 +1,38 @@
+_repo: Angelic-Wisdom-Concerning-the-Divine-Love-and-the-Divine-Wisdom_16627
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ager, John C. (John Curtis)
+    aliases:
+    - Ager, J. C. (John Curtis)
+    - Ager, John Curtis
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '6833'
+    url: http://www.gutenberg.org/2009/agents/6833
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+description: ''
+gutenberg_issued: '2005-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'God (Christianity) -- Wisdom'
+- !lcc 'BX'
+- !lcsh 'God (Christianity) -- Love'
+title: Angelic Wisdom Concerning the Divine Love and the Divine Wisdom
+url: http://www.gutenberg.org/ebooks/16627
